@@ -1,6 +1,6 @@
 ﻿namespace MyApp
 {
-    partial class Form1
+    partial class Home
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -30,13 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // Home
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(546, 261);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "Home";
+            this.Text = "Home";
             this.ResumeLayout(false);
 
         }
